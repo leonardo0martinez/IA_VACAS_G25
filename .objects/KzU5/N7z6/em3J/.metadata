@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge GitHub - Jose2808Laboratorio-IA1-1S-2024",
+  "Type": "Screen",
+  "Id": "em3JAPCRlkOJW-tv5H-u0w",
+  "Reference": "oLH77yrlyEOgA33nWCMr7Q/em3JAPCRlkOJW-tv5H-u0w",
+  "ParentRef": "oLH77yrlyEOgA33nWCMr7Q/N7z6eAgE10-Fw_P9RTbu1Q",
+  "Created": "2024-06-07T04:28:58.3052482Z",
+  "Updated": "2024-06-07T04:28:58.3052482Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

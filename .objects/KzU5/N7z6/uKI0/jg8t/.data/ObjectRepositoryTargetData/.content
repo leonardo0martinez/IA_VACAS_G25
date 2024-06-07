@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5RHAFxAW90GJbBz7yfHSog" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://isbndb.com/" CVScreenId="5d9096c5-ba13-4319-ba41-399417249b9e" CvTextArea="453, 415, 134, 15" CvTextArgument="978-0142437223" CvType="Text" DesignTimeRectangle="424, 390, 1073, 66" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='search_query' parentid='block-isbndbsearchblock' tag='INPUT' /&gt;" Guid="d2daace3-0532-4eca-b9b1-a094f1db69df" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The World&amp;apos;s Largest Book Database - ISBN Database | ISBNdb' /&gt;" SearchSteps="Selector" Version="V3">
+      <imageRef attrName="InformativeScreenshot" originalValue="95ca85a313225d0fe216dd2ec8d74099.png" xmlns="">00Me-mnkRwk6kiT3Ugz6zFA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

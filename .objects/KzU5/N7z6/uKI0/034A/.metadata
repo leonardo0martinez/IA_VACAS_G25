@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Set Text 'httpsisbndb.combook…'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "034AdVJP4k2y3GsadLOo2w",
+  "Reference": "oLH77yrlyEOgA33nWCMr7Q/034AdVJP4k2y3GsadLOo2w",
+  "ParentRef": "oLH77yrlyEOgA33nWCMr7Q/uKI0ws-4gEyYdXVCMNr5FQ",
+  "Created": "2024-06-07T05:10:46.2716307Z",
+  "Updated": "2024-06-07T05:10:46.2716307Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
