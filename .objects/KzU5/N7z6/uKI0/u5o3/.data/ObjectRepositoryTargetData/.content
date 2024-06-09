@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="XCYQLDK82kiYKy-XUKN9Ew" Reference="oLH77yrlyEOgA33nWCMr7Q/u5o3OCMYFkOfL8b1mBQSTQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="v0yk4HLRm02aSeZDTdivvQ" Reference="oLH77yrlyEOgA33nWCMr7Q/u5o3OCMYFkOfL8b1mBQSTQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://isbndb.com/" DesignTimeRectangle="1429, 403, 38, 38" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl id='search-button' parentid='block-isbndbsearchblock' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl id='search-button' parentid='block-isbndbsearchblock' tag='BUTTON' type='submit' class='search-button btn btn-default' aaname='' /&gt;" Guid="f1b11600-ae08-453b-a546-29e338f62e5c" ScopeSelectorArgument="&lt;html app='msedge.exe' title='The World&amp;apos;s Largest Book Database - ISBN Database | ISBNdb' /&gt;" SearchSteps="FuzzySelector" Version="V3" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="0087b3f35c33afe0df9c57d60f109277.png" xmlns="">0VjjKjbhwU0KSF0nkjHccTw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="0087b3f35c33afe0df9c57d60f109277.png" xmlns="">0ww6Rc5gyCE6JOr8sHTv_zQ</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>

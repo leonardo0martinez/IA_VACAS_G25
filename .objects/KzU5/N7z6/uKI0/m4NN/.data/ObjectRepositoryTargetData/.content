@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="aYC4pqtjhU6Qd23khtQmQw" Reference="oLH77yrlyEOgA33nWCMr7Q/m4NNuyoCokq20XuIVRbrZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="QkVo1VB9ZkyMox05EeuEPw" Reference="oLH77yrlyEOgA33nWCMr7Q/m4NNuyoCokq20XuIVRbrZA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
     <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://isbndb.com/book/9780061120084" CVScreenId="7171f5f9-1086-4944-8146-64b6e3bd7500" CvTextArea="413, 161, 113, 30" CvTextArgument="ISBNDB" CvType="Text" DesignTimeRectangle="369, 152, 155, 48" DesignTimeScaleFactor="1" ElementType="Icon" FullSelectorArgument="&lt;webctrl tag='IMG' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='IMG' type='' class='' aaname='Home' /&gt;" Guid="afdd5aaf-4abc-4abe-8144-10807582294e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='| ISBNdb' /&gt;" SearchSteps="FuzzySelector, CV" Version="V3" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="901e4f6874d23e604ab0c7240842b3a9.png" xmlns="">0EAJG_ZaqkkuKWkuWO9LPaQ</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="901e4f6874d23e604ab0c7240842b3a9.png" xmlns="">0N6DMePcszkq21xWlTGg7xQ</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">Click</x:String>
   </ObjectRepositoryTargetData.Data>
