@@ -1,0 +1,14 @@
+﻿{
+  "Name": "InfoLibroTable",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "JXG2qvAdw0CVNOVg5HY8ow",
+  "Reference": "oLH77yrlyEOgA33nWCMr7Q/JXG2qvAdw0CVNOVg5HY8ow",
+  "ParentRef": "oLH77yrlyEOgA33nWCMr7Q/uKI0ws-4gEyYdXVCMNr5FQ",
+  "Created": "2024-06-09T06:36:31.861384Z",
+  "Updated": "2024-06-09T06:36:31.861384Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
