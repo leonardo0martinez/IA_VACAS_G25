@@ -73,3 +73,23 @@ subc(C1, C2):-subclase_de(C1,C3),
 propiedad(Obj,Prop):-es(Clase,Obj),
                      tiene_propiedad(Clase,Propiedad,Clase2),
                      Prop =.. [Propiedad, Clase2].
+
+%===========================================
+%                 Pruebas
+%===========================================
+% es(plantas, olivo).
+% es(matas, arandanos).
+% es(reproduccion, encino).
+% es(duracion, trigo).
+% es(semillas, tomate).
+% es(esporas, helechos).
+
+% subc(reproduccion, plantas).
+% subc(reproduccion, arboles).
+% subc(duracion, hierbas).
+% subc(hierbas, reproduccion).
+
+% propiedad(olivos, X).
+% propiedad(musgos, X).
+% propiedad(pino, X).
+% propiedad(maiz, X).
